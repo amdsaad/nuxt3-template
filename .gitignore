@@ -17,6 +17,8 @@ logs
 .DS_Store
 .fleet
 .idea
+# eslint cache
+.eslintcache
 
 # Local env files
 .env
